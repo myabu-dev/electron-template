@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/myabu-dev/electron-template/issues"
   },
-  "homepage": "https://github.com/myabu-dev/electron-template#readme"
+  "homepage": "https://github.com/myabu-dev/electron-template#readme",
+  "dependencies": {
+    "electron": "^9.0.4",
+    "webpack": "^4.43.0"
+  }
 }
